@@ -46,3 +46,5 @@ Si bien en el pasado se podia ser relevante en este campo con solo htm, css y Ja
 - **Funciones:** Bloques de código reutilizables. Ejemplo: `function saludar() { alert("Hola!"); }`
 - **Eventos:** Acciones que ocurren en la página web (clics, movimiento del mouse, etc.). Puedes usar JavaScript para responder a estos eventos.
 - **Manipulación del DOM:** JavaScript puede modificar el contenido y la estructura de la página web.
+
+[JAVASCRIPT COMPLETO](./langs/js.md)
