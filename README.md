@@ -10,7 +10,7 @@ Bueno, a través del tiempo he visto que a muchas personas les interesa el mundo
 
 La idea de esta guía es que tengas una orientación en tu carrera como programador autodidacta de manera gratuita y con recursos de cálidad con los que muchos expertos se han capacitado.
 
-Para entender y sacarle el máximo provecho a esta guía lo más recomendable es que leas todo paso a paso y sigas las lecturas y recursos como lo especifican las intrucciones, debes investigar mucho, lo que no entiendas investigarlo, usa internet y las herramientas de IA que puedes encontrar con solo buscar en tu buscador preferido. Recuerda que necesitas disciplina y paciencia para avanzar cada tema correctamente, ¡Mucha suerte!.
+Para entender y sacarle el máximo provecho a esta guía lo más recomendable es que leas todo paso a paso y sigas las lecturas y recursos como lo especifican las instrucciones, debes investigar mucho, lo que no entiendas investigarlo, usa internet y las herramientas de IA que puedes encontrar con solo buscar en tu buscador preferido. Recuerda que necesitas disciplina y paciencia para avanzar cada tema correctamente, ¡Mucha suerte!.
 
 ## ¿Por qué hice esta guía?
 
@@ -28,19 +28,19 @@ Antes de empezar un estudio es fundamental la motivación. Es importante que ant
 
 Una vez entiendas tu propósito, empecemos.
 
-## Bases
+# Bases
 
-### Fundamentos
+## Fundamentos
 
-#### ¿Por qué son importantes?
+### ¿Por qué son importantes?
 
 Saber los fundamentos te dará importantes conocimientos que te ahorrarán tiempo y dolores de cabeza, lo que significa una importante ventaja al avanzar a tecnologías y retos que requieran de una persona mejor preparada.
 
-#### Lógica de programación
+### Lógica de programación
 
 La lógica de programación es una habilidad que todos los programadores debemos desarrollar; de esta depende la calidad de las soluciones que empleamos para resolver problemas a lo largo de nuestra carrera. Perfeccionar esta habilidad depende de estudio y experiencia, por lo que no nos apresuremos y veamos los fundamentos.
 
-##### Algoritmos
+#### Algoritmos
 
 Un algoritmo no es más que la serie de pasos que debe ejecutar un proceso para llegar a una solución. El algoritmo no es código como tal; usualmente se hacen en diagramas de flujo o en pseudocódigo.
 
@@ -53,7 +53,7 @@ Entender cómo funciona un algoritmo es importante, por lo que aquí te comparto
 - [FreeCodeCamp - Estructuras de datos y algoritmos](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) (Recomendado)
 
-##### Pseudocódigo
+#### Pseudocódigo
 
 El pseudocódigo es aquel que se asemeja al lenguaje natural y puede ser en español. Es sumamente útil para familiarizarte con los conceptos clave de un lenguaje de programación y entender los conceptos básicos de la programación. Este proceso, si no tienes experiencia con programación, no recomiendo saltártelo, ya que te va a dar una base suficiente como para iniciar en un lenguaje de programación.
 
@@ -67,78 +67,85 @@ Para empezar, puedes hacerlo con estos pequeños cursos:
 - [Opcion 2 Danisable Programacion](https://www.youtube.com/playlist?list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798)
 
 Una vez tengamos claros los fundamentos debemos practicar y jugar con ejercicios para entender mejor. Puede sentirse libre de hacer todo tipo de ejercicios con este programa
-Nivel Básico
 
-    Hola, Mundo: Escribe un algoritmo que imprima en pantalla el mensaje "Hola, Mundo".
+##### Ejercicios pseint
+<details>
+  <summary>EJERCICIOS EN PSEINT -  Click para expandir</summary>
+  
+    Nivel Básico
 
-    Suma de dos números: Solicita al usuario dos números e imprime la suma de ambos.
+        Hola, Mundo: Escribe un algoritmo que imprima en pantalla el mensaje "Hola, Mundo".
 
-    Cálculo del área de un rectángulo: Pide al usuario el largo y el ancho de un rectángulo, y calcula e imprime el área.
+        Suma de dos números: Solicita al usuario dos números e imprime la suma de ambos.
 
-    Conversión de grados Celsius a Fahrenheit: Solicita una temperatura en grados Celsius y convierte a Fahrenheit usando la fórmula: F=C×1.8+32F=C×1.8+32.
+        Cálculo del área de un rectángulo: Pide al usuario el largo y el ancho de un rectángulo, y calcula e imprime el área.
 
-    Determinar si un número es par o impar: Pide un número al usuario y determina si es par o impar.
+        Conversión de grados Celsius a Fahrenheit: Solicita una temperatura en grados Celsius y convierte a Fahrenheit usando la fórmula: F=C×1.8+32F=C×1.8+32.
 
-    Calculadora de descuento: Pide el precio original de un producto y el porcentaje de descuento. Calcula el precio final con el descuento aplicado.
+        Determinar si un número es par o impar: Pide un número al usuario y determina si es par o impar.
 
-    Edad en días: Solicita la edad de una persona en años y convierte esa cantidad a días.
+        Calculadora de descuento: Pide el precio original de un producto y el porcentaje de descuento. Calcula el precio final con el descuento aplicado.
 
-    Promedio de tres números: Solicita tres números e imprime su promedio.
+        Edad en días: Solicita la edad de una persona en años y convierte esa cantidad a días.
 
-    Conversión de metros a centímetros: Pide al usuario una cantidad en metros y conviértela a centímetros.
+        Promedio de tres números: Solicita tres números e imprime su promedio.
 
-    Números del 1 al 10: Escribe un algoritmo que imprima en pantalla los números del 1 al 10.
+        Conversión de metros a centímetros: Pide al usuario una cantidad en metros y conviértela a centímetros.
 
-Nivel Intermedio
+        Números del 1 al 10: Escribe un algoritmo que imprima en pantalla los números del 1 al 10.
 
-    Tabla de multiplicar: Solicita un número entero y genera la tabla de multiplicar de ese número del 1 al 10.
+    Nivel Intermedio
 
-    Calculadora básica: Crea un programa que solicite dos números y luego pida al usuario que elija una operación (suma, resta, multiplicación o división) para realizar con esos números.
+        Tabla de multiplicar: Solicita un número entero y genera la tabla de multiplicar de ese número del 1 al 10.
 
-    Cálculo de salario semanal: Solicita el salario por hora y las horas trabajadas en una semana, y calcula el salario semanal. Considera el pago de horas extras si se trabaja más de 40 horas (pagadas al 1.5 del salario normal).
+        Calculadora básica: Crea un programa que solicite dos números y luego pida al usuario que elija una operación (suma, resta, multiplicación o división) para realizar con esos números.
 
-    Suma de los primeros N números: Pide al usuario un número NN y calcula la suma de los números del 1 al NN.
+        Cálculo de salario semanal: Solicita el salario por hora y las horas trabajadas en una semana, y calcula el salario semanal. Considera el pago de horas extras si se trabaja más de 40 horas (pagadas al 1.5 del salario normal).
 
-    Número mayor de tres: Solicita tres números diferentes e imprime el mayor de los tres.
+        Suma de los primeros N números: Pide al usuario un número NN y calcula la suma de los números del 1 al NN.
 
-    Calculadora de IMC: Solicita el peso en kilogramos y la altura en metros de una persona. Calcula el Índice de Masa Corporal (IMC) y muestra un mensaje indicando si está en el rango de bajo peso, normal, sobrepeso o obesidad.
+        Número mayor de tres: Solicita tres números diferentes e imprime el mayor de los tres.
 
-    Conversión de segundos a horas, minutos y segundos: Solicita una cantidad de segundos e imprime la conversión en horas, minutos y segundos.
+        Calculadora de IMC: Solicita el peso en kilogramos y la altura en metros de una persona. Calcula el Índice de Masa Corporal (IMC) y muestra un mensaje indicando si está en el rango de bajo peso, normal, sobrepeso o obesidad.
 
-    Número perfecto: Solicita un número e indica si es un número perfecto. Un número perfecto es aquel que es igual a la suma de sus divisores propios positivos (excluyendo el mismo número).
+        Conversión de segundos a horas, minutos y segundos: Solicita una cantidad de segundos e imprime la conversión en horas, minutos y segundos.
 
-    Serie de Fibonacci: Solicita un número NN y muestra los primeros NN términos de la serie de Fibonacci.
+        Número perfecto: Solicita un número e indica si es un número perfecto. Un número perfecto es aquel que es igual a la suma de sus divisores propios positivos (excluyendo el mismo número).
 
-    Contador de dígitos: Solicita un número entero positivo y cuenta cuántos dígitos tiene.
+        Serie de Fibonacci: Solicita un número NN y muestra los primeros NN términos de la serie de Fibonacci.
 
-Nivel Avanzado
+        Contador de dígitos: Solicita un número entero positivo y cuenta cuántos dígitos tiene.
 
-    Primo o no primo: Solicita un número e indica si es un número primo o no.
+    Nivel Avanzado
 
-    Adivina el número: Programa un juego en el que la computadora elige un número al azar entre 1 y 100, y el usuario debe adivinarlo. La computadora debe responder si el número ingresado es mayor o menor que el número secreto hasta que el usuario acierte.
+        Primo o no primo: Solicita un número e indica si es un número primo o no.
 
-    Factorial de un número: Solicita un número entero no negativo y calcula su factorial.
+        Adivina el número: Programa un juego en el que la computadora elige un número al azar entre 1 y 100, y el usuario debe adivinarlo. La computadora debe responder si el número ingresado es mayor o menor que el número secreto hasta que el usuario acierte.
 
-    Número palíndromo: Solicita un número y verifica si es un palíndromo (un número que se lee igual de izquierda a derecha y de derecha a izquierda).
+        Factorial de un número: Solicita un número entero no negativo y calcula su factorial.
 
-    Conversión de número a binario: Solicita un número entero y convierte el número a su representación en binario.
+        Número palíndromo: Solicita un número y verifica si es un palíndromo (un número que se lee igual de izquierda a derecha y de derecha a izquierda).
 
-    Ordenar tres números: Solicita tres números y ordénalos de menor a mayor sin utilizar funciones de ordenamiento.
+        Conversión de número a binario: Solicita un número entero y convierte el número a su representación en binario.
 
-    Promedio de calificaciones: Crea un algoritmo que solicite calificaciones indefinidamente hasta que el usuario indique que ya no quiere ingresar más datos. Calcula el promedio de todas las calificaciones ingresadas.
+        Ordenar tres números: Solicita tres números y ordénalos de menor a mayor sin utilizar funciones de ordenamiento.
 
-    Serie de números impares: Solicita un número NN e imprime los primeros NN números impares.
+        Promedio de calificaciones: Crea un algoritmo que solicite calificaciones indefinidamente hasta que el usuario indique que ya no quiere ingresar más datos. Calcula el promedio de todas las calificaciones ingresadas.
 
-    Ordenar lista de números: Crea un programa que permita al usuario ingresar una lista de números y luego los ordene de menor a mayor.
+        Serie de números impares: Solicita un número NN e imprime los primeros NN números impares.
 
-#### Estructuras de datos (Fundamentos)
+        Ordenar lista de números: Crea un programa que permita al usuario ingresar una lista de números y luego los ordene de menor a mayor.
 
-Las estructuras de datos son esas estructuras en las que se guardan datos para ser procesados y convertidos en información por lo que es importante que veamos y entendamos la introducción más adelante tendremos que profundizar segun el lenguaje al que vamos a especializar.
+</details>
+# Estructuras de datos (Fundamentos)
+
+Las estructuras de datos organizan y gestionan información eficientemente. Son clave en software porque impactan el rendimiento, optimizan algoritmos y facilitan la resolución de problemas. *Con saber la teoria es sucifiente, luego se profundizará en eso.*
 
 - [INTRODUCCION A LAS ESTRUCTURAS DE DATOS](https://www.researchgate.net/publication/359743419_Una_pequena_introduccion_a_Estructura_de_Datos)
 - [INTRODUCCIÓN ESTRUCTURAS DE DATOS - Usalesiana](https://virtual.usalesiana.edu.bo/web/conte/archivos/280.pdf)
+- [ESTRUCTURAS DE DATOS](https://es.wikipedia.org/wiki/Estructura_de_datos)
 
-#### Código
+# Código
 
 Al llegar hasta aquí es necesario que escojamos un lenguaje de programación para empezar, este lenguaje reflejará el área técnica a la que nos vamos a dedicar (Podemos cambiar despues) por lo que tambien es recomendable estudiar un poco sobre el software y que podemos hacer con el.
 
@@ -148,14 +155,13 @@ Si no sabes estos conceptos te invito a leer y/o investigar un poco acerca de el
 - [AREAS EN EL SOFTWARE](https://www.youtube.com/watch?v=LXJr0Ua8v4c&ab_channel=Absolute)
 - [LENGUAJE DE PROGRAMACION](./resources/LENGUAJE.md)
 - [PARADIGMA DE PROGRAMACIÓN](./resources/PARADIGMAS.md)
-- [ESTRUCTURAS DE DATOS](https://es.wikipedia.org/wiki/Estructura_de_datos)
 
 Te proporcionaré algunos recursos clave para empezar en algunos lenguajes recomendados, te recomiendo empezar con algo sencillo como Javascript, Python, o C. (Importante leer)
 
 - [LENGUAJES DE PROGRAMACION (BEGINNER)](./resources/LENGUAJES_BEGGINER.md)
 - [PROGRAMACION IMPERATIVA (INTRODUCCION) - Universidad del Rosario de Argentina](https://www.fceia.unr.edu.ar/~alpi/apuntes/capitulo13.pdf)
 
-#### Fundamentos matemáticos
+## Fundamentos matemáticos
 
 Si la meta es llegar lejos con la programación y tener una comprensión superior, no debes olvidarte de las matemáticas pues estas te abren las puertas a una infinidad de soluciones por la que podrás destacar.
 

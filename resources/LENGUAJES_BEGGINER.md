@@ -14,16 +14,15 @@ En esta seccion encontras introducción al lenguaje por lo que es posible que te
 ## Javascript
 
 [Javascript completo](./langs/js.md)
+
+Otros recursos:
 [Fundamentos de javascript - Mozilla Docs](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 [Fundamentos de programacion JS - ManzDev](https://lenguajejs.com/fundamentos/)
 [Fundamentos de JS - luixaviles](https://www.youtube.com/watch?v=hjSDHz_qKTQ&ab_channel=luixaviles)
 [Curso javascript completo Orientado - Orientado al lenguaje (No web en su mayoria)](https://www.youtube.com/watch?v=mpIwKBNr7_o&list=PL2Z95CSZ1N4HXvLWg8oL4IpyJx27HafcD&ab_channel=INFORMATICONFIG)
 
-Si quieres ya introducirte al desarollo web, te recomiendo avanzar en la guía
 
 ## Python
-
-[Curso Python - Microsoft Learn](https://learn.microsoft.com/es-es/training/paths/beginner-python/)
-[El turorial de python - Python Docs](https://docs.python.org/es/3/tutorial/)
+[Python completo](./langs/python.md)
 
 Estos son los 3 lenguajes que yo recomiendo para empezar, por el hecho de que puedes avanzar poco a poco y no se satura demasiado el contenido, se puede avanzar progresivamente y hacer cosas interesantes en el proceso.
