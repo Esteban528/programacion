@@ -20,7 +20,7 @@ Roadmap útil:
 - [ESTRUCTURAS DE DATOS EN JS](https://codingpotions.com/estructuras-datos-javascript/)
 
 > [!IMPORTANT]  
-> No te saltes Las siguientes recursos, los necesitas para empezar a crear software. Es muy importante que sigas paso a paso cada sección
+> No te saltes las siguientes secciones, los necesitas para empezar a crear software. Es muy importante que sigas paso a paso cada sección
 
 ### Paradigmas de programación
 Javascript por defecto utiliza el paradigma imperativo para su funcionalidad, pero hay otros paradigmas que pueden usarse para sacarle el máximo potencial.
