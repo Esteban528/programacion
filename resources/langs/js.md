@@ -1,7 +1,8 @@
 # Javascript
 
-Roadmap útil:
-[ROADMAP DE JS](https://roadmap.sh/javascript)
+Otras guais utiles:
+- [ROADMAP DE JS](https://roadmap.sh/javascript)
+- [JS MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Recursos
 
