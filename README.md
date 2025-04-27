@@ -51,7 +51,6 @@ Entender cómo funciona un algoritmo es importante, por lo que aquí te comparto
 - [Algoritmos - UAA](https://editorial.uaa.mx/docs/algoritmos.pdf) (Recomendado)
 - [Khan Academy - Algoritmos](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [FreeCodeCamp - Estructuras de datos y algoritmos](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
-- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) (Recomendado)
 
 #### Pseudocódigo
 
@@ -137,13 +136,17 @@ Una vez tengamos claros los fundamentos debemos practicar y jugar con ejercicios
         Ordenar lista de números: Crea un programa que permita al usuario ingresar una lista de números y luego los ordene de menor a mayor.
 
 </details>
+
 # Estructuras de datos (Fundamentos)
 
 Las estructuras de datos organizan y gestionan información eficientemente. Son clave en software porque impactan el rendimiento, optimizan algoritmos y facilitan la resolución de problemas. *Con saber la teoria es sucifiente, luego se profundizará en eso.*
 
-- [INTRODUCCION A LAS ESTRUCTURAS DE DATOS](https://www.researchgate.net/publication/359743419_Una_pequena_introduccion_a_Estructura_de_Datos)
-- [INTRODUCCIÓN ESTRUCTURAS DE DATOS - Usalesiana](https://virtual.usalesiana.edu.bo/web/conte/archivos/280.pdf)
 - [ESTRUCTURAS DE DATOS](https://es.wikipedia.org/wiki/Estructura_de_datos)
+- [INTRODUCCION A LAS ESTRUCTURAS DE DATOS](https://www.researchgate.net/publication/359743419_Una_pequena_introduccion_a_Estructura_de_Datos)
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) (Recomendado)
+
+- [INTRODUCCIÓN ESTRUCTURAS DE DATOS - Usalesiana](https://virtual.usalesiana.edu.bo/web/conte/archivos/280.pdf)
+
 
 # Código
 
