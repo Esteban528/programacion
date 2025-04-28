@@ -6,20 +6,20 @@ En esta seccion encontras introducción al lenguaje por lo que es posible que te
 
 ## Lenguaje C
 
-[Curso básico de C - Codigo Facilito](https://codigofacilito.com/cursos/c)
-[Curso/Turorial de C - Tutorialesprogramacionya](https://www.tutorialesprogramacionya.com/cya/)
-[Libro de C - B.Kernighan's .D.M. Ritchie's ](https://www.amazon.com/B-Kernighans-RitchiesC-Programming-Language-Paperback1988/dp/B003XKB8AU?&linkCode=sl1&tag=artmapincdbah-20&linkId=612df9b2fe2f113acb396b61320c21cc&language=en_US&ref_=as_li_ss_tl) _Se puede conseguir gratis en internet_
-[Lenguaje de programación C - UniQuindio](https://cdn.discordapp.com/attachments/1247214586411880488/1258190382563463169/Programacion-I-Lenguaje-C.pdf?ex=6729f5db&is=6728a45b&hm=e2304fdf79d93dd85fa4ecf9c8e53188110783ab19175e02dc7521030856366c&)
+- [Curso básico de C - Codigo Facilito](https://codigofacilito.com/cursos/c)
+- [Curso/Turorial de C - Tutorialesprogramacionya](https://www.tutorialesprogramacionya.com/cya/)
+- [Libro de C - B.Kernighan's .D.M. Ritchie's ](https://www.amazon.com/B-Kernighans-RitchiesC-Programming-Language-Paperback1988/dp/B003XKB8AU?&linkCode=sl1&tag=artmapincdbah-20&linkId=612df9b2fe2f113acb396b61320c21cc&language=en_US&ref_=as_li_ss_tl) _Se puede conseguir gratis en internet_
+- [Lenguaje de programación C - UniQuindio](https://cdn.discordapp.com/attachments/1247214586411880488/1258190382563463169/Programacion-I-Lenguaje-C.pdf?ex=6729f5db&is=6728a45b&hm=e2304fdf79d93dd85fa4ecf9c8e53188110783ab19175e02dc7521030856366c&)
 
 ## Javascript
 
-[Javascript completo](./langs/js.md)
+- [Javascript completo](./langs/js.md)
 
 Otros recursos:
-[Fundamentos de javascript - Mozilla Docs](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-[Fundamentos de programacion JS - ManzDev](https://lenguajejs.com/fundamentos/)
-[Fundamentos de JS - luixaviles](https://www.youtube.com/watch?v=hjSDHz_qKTQ&ab_channel=luixaviles)
-[Curso javascript completo Orientado - Orientado al lenguaje (No web en su mayoria)](https://www.youtube.com/watch?v=mpIwKBNr7_o&list=PL2Z95CSZ1N4HXvLWg8oL4IpyJx27HafcD&ab_channel=INFORMATICONFIG)
+- [Fundamentos de javascript - Mozilla Docs](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Fundamentos de programacion JS - ManzDev](https://lenguajejs.com/fundamentos/)
+- [Fundamentos de JS - luixaviles](https://www.youtube.com/watch?v=hjSDHz_qKTQ&ab_channel=luixaviles)
+- [Curso javascript completo Orientado - Orientado al lenguaje (No web en su mayoria)](https://www.youtube.com/watch?v=mpIwKBNr7_o&list=PL2Z95CSZ1N4HXvLWg8oL4IpyJx27HafcD&ab_channel=INFORMATICONFIG)
 
 
 ## Python
