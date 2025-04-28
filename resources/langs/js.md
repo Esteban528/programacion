@@ -1,6 +1,6 @@
 # Javascript
 
-Otras guais utiles:
+Otras guias utiles:
 - [ROADMAP DE JS](https://roadmap.sh/javascript)
 - [JS MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
