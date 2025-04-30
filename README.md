@@ -48,8 +48,8 @@ Como ejemplo, piensa en una receta para un pastel. En la receta estará escrita 
 
 Entender cómo funciona un algoritmo es importante, por lo que aquí te comparto los siguientes recursos (algunos en inglés):
 
-- [Algoritmos - UAA](https://editorial.uaa.mx/docs/algoritmos.pdf) (Recomendado)
-- [Khan Academy - Algoritmos](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Khan Academy - Algoritmos](https://www.khanacademy.org/computing/computer-science/algorithms) (Recomendado)
+- [Algoritmos - UAA](https://editorial.uaa.mx/docs/algoritmos.pdf) (Es una buena introducción)
 - [FreeCodeCamp - Estructuras de datos y algoritmos](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
 
 #### Pseudocódigo
