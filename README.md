@@ -48,6 +48,10 @@ Como ejemplo, piensa en una receta para un pastel. En la receta estará escrita 
 
 Entender cómo funciona un algoritmo es importante, por lo que aquí te comparto los siguientes recursos (algunos en inglés):
 
+###### Para empezar 
+- [Introducción a los Algoritmos - Desarrollo para todos](https://www.youtube.com/playlist?list=PLYYyYpMvAtD1Gu8o1734Ld22LTDxlfKfO)
+
+###### Para profundizar en algoritmos:
 - [Khan Academy - Algoritmos](https://www.khanacademy.org/computing/computer-science/algorithms) (Recomendado)
 - [Algoritmos - UAA](https://editorial.uaa.mx/docs/algoritmos.pdf) (Es una buena introducción)
 - [FreeCodeCamp - Estructuras de datos y algoritmos](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
