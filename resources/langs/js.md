@@ -69,5 +69,6 @@ Aqui puedes escoger lo que desees estudiar
 - [VueJS](https://es.vuejs.org/v2/guide/)
 - [Aprende NextJS desde cero](https://www.freecodecamp.org/espanol/news/aprende-next-js-desde-cero/)
 - [Angular](https://angular.dev/) (Requiere saber typescript)
+- [Qwik](https://hirez.io/#courses)
 
 Te invito a exporar más otras tecnologías, motores, frameworks.
