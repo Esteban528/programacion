@@ -22,10 +22,10 @@ Si bien en el pasado se podia ser relevante en este campo con solo htm, css y Ja
 - **Etiquetas importantes:** Aprende sobre etiquetas como `html`, `head`, `body`, `title`, `h1`-`h6`, `p`, `a`, `img`, `div`, `span`, `ul`, `li`, etc.
 
 **Recursos**
-[APRENDE HTML - Mozilla Docs](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-[Curso práctico de Html y css - FreeCodeCamp](https://www.freecodecamp.org/espanol/news/aprende-html-y-css-curso-desde-cero/)
-[Curso HTML Básico - FaztCode](https://www.youtube.com/watch?v=rbuYtrNUxg4&ab_channel=Fazt)
-[Aprende HTML y CSS con 5 proyectos](https://www.youtube.com/watch?v=AXPASVeX74o&ab_channel=Codigo369) (Opcional)
+- [APRENDE HTML - Mozilla Docs](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [Curso práctico de Html y css - FreeCodeCamp](https://www.freecodecamp.org/espanol/news/aprende-html-y-css-curso-desde-cero/)
+- [Curso HTML Básico - FaztCode](https://www.youtube.com/watch?v=rbuYtrNUxg4&ab_channel=Fazt)
+- [Aprende HTML y CSS con 5 proyectos](https://www.youtube.com/watch?v=AXPASVeX74o&ab_channel=Codigo369) (Opcional)
 
 #### 2. CSS (Estilo):
 
@@ -35,16 +35,16 @@ Si bien en el pasado se podia ser relevante en este campo con solo htm, css y Ja
 - **Tipos de selectores:** Aprende sobre selectores de etiquetas, selectores de clase (`.nombre-de-clase`), selectores de ID (`#id-del-elemento`), y selectores descendientes.
 
 **Recursos**
-[Aprende CSS - web.dev](https://web.dev/learn/css?hl=es)
-[Curso práctico de Html y css - FreeCodeCamp](https://www.freecodecamp.org/espanol/news/aprende-html-y-css-curso-desde-cero/)
-[CSS desde 0 - Mozilla Web Docs](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
-[Introducciona SCSS - SASS](https://www.w3schools.com/sass/)
+- [Aprende CSS - web.dev](https://web.dev/learn/css?hl=es)
+- [Curso práctico de Html y css - FreeCodeCamp](https://www.freecodecamp.org/espanol/news/aprende-html-y-css-curso-desde-cero/)
+- [CSS desde 0 - Mozilla Web Docs](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Introducciona SCSS - SASS](https://www.w3schools.com/sass/)
 
-**3. JavaScript (Interactividad):**
+**3. JavaScript:**
 
 - **Variables:** Almacenan datos. Ejemplo: `let nombre = "Juan";`
 - **Funciones:** Bloques de código reutilizables. Ejemplo: `function saludar() { alert("Hola!"); }`
 - **Eventos:** Acciones que ocurren en la página web (clics, movimiento del mouse, etc.). Puedes usar JavaScript para responder a estos eventos.
 - **Manipulación del DOM:** JavaScript puede modificar el contenido y la estructura de la página web.
 
-[JAVASCRIPT COMPLETO](./langs/js.md)
+- [JAVASCRIPT COMPLETO](./langs/js.md)
