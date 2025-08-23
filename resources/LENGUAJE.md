@@ -1,42 +1,142 @@
-Un lenguaje de programación es un **lenguaje formal** que proporciona un conjunto de **instrucciones** para que una computadora o un sistema informático realice tareas específicas. Es un puente de comunicación entre los humanos y las máquinas, permitiéndonos traducir nuestras ideas y algoritmos en un formato que la computadora pueda entender y ejecutar.
+# Lenguajes de Programación: Definición, Fundamentos y Clasificación Técnica
 
-**Componentes Clave de un Lenguaje de Programación:**
+Un **lenguaje de programación** es un **lenguaje formal** diseñado para expresar algoritmos y estructuras de datos de manera precisa, permitiendo que una computadora pueda **interpretar, compilar y ejecutar** dichas instrucciones.
 
-- **Sintaxis:** Las reglas gramaticales que definen cómo se combinan los símbolos y palabras clave para formar instrucciones válidas. Esencialmente, la gramática del lenguaje.
-- **Semántica:** El significado de las instrucciones y cómo se interpretan y ejecutan por la computadora. Define lo que _hace_ cada instrucción.
-- **Librerías/APIs (Interfaces de Programación de Aplicaciones):** Conjuntos de funciones y procedimientos predefinidos que amplían las capacidades del lenguaje y facilitan tareas comunes.
-- **Entorno de Desarrollo (IDE):** Software que proporciona herramientas para escribir, compilar, depurar y ejecutar código. Facilita el proceso de desarrollo.
+A diferencia de los lenguajes naturales, los lenguajes de programación poseen una **sintaxis estrictamente definida** y una **semántica formal**, lo que garantiza que el significado de un programa sea inequívoco. En términos computacionales, un lenguaje de programación es un **medio de especificación** que conecta el **modelo mental del programador** con el **modelo computacional subyacente** (máquina de Turing, arquitectura de Von Neumann, o modelos alternativos).
 
-**Tipos de Lenguajes de Programación:**
+---
 
-Los lenguajes de programación se pueden clasificar de varias maneras, incluyendo:
+## Componentes Fundamentales de un Lenguaje de Programación
 
-- **Nivel de Abstracción:**
+1. **Sintaxis:**
 
-  - **Bajo Nivel:** Cercanos al lenguaje máquina, ofreciendo un control preciso del hardware, pero más complejos de usar (ej. lenguaje ensamblador).
-  - **Alto Nivel:** Más cercanos al lenguaje humano, más fáciles de aprender y usar, pero con menos control directo del hardware (ej. Python, Java, C#).
+   * Conjunto de reglas gramaticales que determinan la **estructura válida** de un programa.
+   * Se describe mediante **gramáticas formales**, frecuentemente en notación BNF (*Backus–Naur Form*) o EBNF.
+   * Ejemplo: En C, `int x = 10;` es una sentencia válida; `int = x 10;` no lo es.
 
-Es muy posible que entre más bajo sea el nivel más dificultad tendrá.
+2. **Semántica:**
 
-- **Paradigma de Programación:** (Como se explicó anteriormente) El enfoque fundamental para la construcción de software (ej. imperativo, orientado a objetos, funcional, lógico).
+   * Define el **significado** de las construcciones sintácticas.
+   * Se divide en:
 
-- **Propósito:**
+     * **Semántica estática:** Reglas que pueden verificarse en tiempo de compilación (tipado, alcance de variables).
+     * **Semántica dinámica:** Comportamiento durante la ejecución (efectos sobre memoria, flujo de control, llamadas a funciones).
+   * Ejemplo: `x = x + 1;` en C implica leer el valor actual de `x`, sumarle 1 y escribirlo de nuevo en memoria.
 
-  - **General:** Diseñados para una amplia gama de aplicaciones (ej. Python, Java, C++).
-  - **Específico:** Diseñados para un dominio o tarea particular (ej. SQL para bases de datos, R para estadística).
+3. **Pragmática:**
 
-- **Forma de Ejecución:**
-  - **Compilados:** El código fuente se traduce completamente a lenguaje máquina antes de la ejecución (ej. C, C++).
-  - **Interpretados:** El código fuente se ejecuta línea por línea por un intérprete (ej. Python, JavaScript).
+   * Relacionada con el **uso real** del lenguaje, buenas prácticas y convenciones.
+   * Ejemplo: preferir `for-each` en Java cuando se itera sobre colecciones en lugar de un `for` con índices.
 
-**Ejemplos de Lenguajes de Programación Populares:**
+4. **Bibliotecas y APIs:**
 
-- **Python:** Lenguaje de alto nivel, de propósito general, conocido por su sintaxis clara y legible. Ampliamente utilizado en ciencia de datos, aprendizaje automático y desarrollo web.
-- **Java:** Lenguaje de alto nivel, orientado a objetos, popular para aplicaciones empresariales, desarrollo móvil (Android) y aplicaciones web.
-- **JavaScript:** Lenguaje de alto nivel, principalmente utilizado para desarrollo web front-end, proporcionando interactividad y dinamismo a las páginas web.
-- **C++:** Lenguaje de alto nivel, potente y versátil, utilizado para desarrollo de juegos, sistemas operativos y aplicaciones de alto rendimiento.
-- **C#:** Lenguaje de alto nivel, desarrollado por Microsoft, comúnmente utilizado para desarrollo de aplicaciones Windows y juegos con Unity.
-- **Swift:** Lenguaje de alto nivel, desarrollado por Apple, utilizado para desarrollar aplicaciones para iOS, macOS, watchOS y tvOS.
-- **Go:** Lenguaje de alto nivel, desarrollado por Google, conocido por su eficiencia y concurrencia, utilizado para desarrollo de servidores y aplicaciones en la nube.
+   * Extienden el lenguaje base con colecciones de funciones, módulos o paquetes reutilizables.
+   * Son clave en la productividad, ya que permiten enfocarse en la lógica de negocio en lugar de reinventar algoritmos básicos.
 
-**En resumen,** un lenguaje de programación es una herramienta esencial para la creación de software. La elección del lenguaje adecuado depende del proyecto, las habilidades del programador y los requisitos específicos de la aplicación.
+5. **Entorno de Ejecución y Desarrollo:**
+
+   * Incluye **compiladores, intérpretes, entornos de ejecución (VMs)** e **IDEs**.
+   * Ejemplo: la **JVM** (Java Virtual Machine) ejecuta bytecode Java, proporcionando portabilidad y seguridad.
+
+---
+
+## Clasificación de los Lenguajes de Programación
+
+### 1. Por Nivel de Abstracción
+
+* **Lenguajes de bajo nivel:**
+
+  * Cercanos al hardware.
+  * Ejemplo: **Lenguaje ensamblador**, donde cada instrucción corresponde casi directamente a una instrucción máquina.
+* **Lenguajes de alto nivel:**
+
+  * Orientados a la resolución de problemas.
+  * Más legibles y expresivos.
+  * Ejemplo: **Python, Java, C#**.
+
+> **Observación:** Cuanto más bajo el nivel, mayor control sobre hardware pero menor productividad; cuanto más alto, mayor abstracción pero con pérdida de control fino.
+
+---
+
+### 2. Por Paradigma de Programación
+
+* **Imperativo:** Descripción explícita de pasos a ejecutar (C, Fortran).
+* **Declarativo:** Enfoque en *qué* resultado se desea (SQL, Prolog).
+* **Orientado a Objetos:** Encapsulación en clases y objetos (Java, C++, C#).
+* **Funcional:** Computación como evaluación de funciones (Haskell, Lisp, Scala).
+* **Lógico:** Computación como deducción y resolución lógica (Prolog).
+
+---
+
+### 3. Por Propósito
+
+* **De propósito general:** Aplicables a diversos dominios (C, Java, Python).
+* **De propósito específico (DSL, *Domain-Specific Languages*):** Diseñados para un área concreta.
+
+  * Ejemplo: **SQL** para bases de datos, **VHDL** para descripción de hardware, **R** para estadística.
+
+---
+
+### 4. Por Forma de Ejecución
+
+* **Lenguajes compilados:**
+
+  * El código fuente se traduce a **código máquina** completo antes de ejecutarse.
+  * Ejemplo: **C, C++**.
+* **Lenguajes interpretados:**
+
+  * El código se ejecuta instrucción por instrucción en un **intérprete**.
+  * Ejemplo: **Python, JavaScript**.
+* **Lenguajes híbridos (compilación intermedia):**
+
+  * Se compilan a un bytecode portable que luego es interpretado o compilado en tiempo de ejecución.
+  * Ejemplo: **Java (JVM), C# (CLR/.NET)**.
+
+---
+
+## Ejemplos de Lenguajes Relevantes y su Enfoque Técnico
+
+* **C:** Bajo nivel, eficiente, control sobre memoria, ampliamente usado en sistemas operativos y compiladores.
+* **C++:** Extiende C con orientación a objetos y metaprogramación. Usado en videojuegos, motores gráficos, software crítico.
+* **Java:** Orientado a objetos, portable gracias a la JVM, con un ecosistema robusto para aplicaciones empresariales y móviles.
+* **Python:** Interpretado, multiparadigma (imperativo, funcional, orientado a objetos), famoso por su simplicidad y uso en ciencia de datos.
+* **JavaScript:** Lenguaje interpretado, esencial en desarrollo web. Evolucionó con Node.js(Bun, deno, etc) para backend.
+* **Go (Golang):** Compilado, eficiente en concurrencia, adoptado para sistemas distribuidos y servicios en la nube.
+* **Rust:** Compilado, bajo nivel pero seguro, orientado a concurrencia sin *data races*.
+* **Swift:** Compilado, optimizado para ecosistema Apple, moderno y seguro.
+* **Haskell:** Funcional puro, con evaluación perezosa y tipado estático fuerte.
+
+---
+
+## Consideraciones sobre Elección de Lenguaje
+
+La selección del lenguaje depende de:
+
+* **Rendimiento requerido** (ej. C en sistemas embebidos).
+* **Productividad y rapidez de desarrollo** (ej. Python en prototipos de IA).
+* **Robustez y escalabilidad** (ej. Java en sistemas empresariales).
+* **Concurrencia masiva** (ej. Erlang o Go en telecomunicaciones y microservicios).
+* **Seguridad de memoria** (ej. Rust en sistemas críticos).
+
+
+Un lenguaje de programación no es solo un conjunto de instrucciones para controlar una máquina; es una **abstracción formal que conecta teoría computacional, modelos de ejecución y aplicaciones prácticas**.
+
+La comprensión de sus **componentes formales (sintaxis, semántica, pragmática)** y de su **clasificación técnica** permite al programador elegir con mayor criterio el lenguaje adecuado para cada dominio de aplicación, equilibrando factores como eficiencia, expresividad, seguridad y productividad.
+
+---
+
+# Lenguajes en esta guia:
+
+## Lenguaje C
+
+- [Curso básico de C - Codigo Facilito](https://codigofacilito.com/cursos/c)
+- [Curso/Turorial de C - Tutorialesprogramacionya](https://www.tutorialesprogramacionya.com/cya/)
+- [Libro de C - B.Kernighan's .D.M. Ritchie's ](https://www.amazon.com/B-Kernighans-RitchiesC-Programming-Language-Paperback1988/dp/B003XKB8AU?&linkCode=sl1&tag=artmapincdbah-20&linkId=612df9b2fe2f113acb396b61320c21cc&language=en_US&ref_=as_li_ss_tl) _Se puede conseguir gratis en internet_
+- [Lenguaje de programación C - UniQuindio](https://cdn.discordapp.com/attachments/1247214586411880488/1258190382563463169/Programacion-I-Lenguaje-C.pdf?ex=6729f5db&is=6728a45b&hm=e2304fdf79d93dd85fa4ecf9c8e53188110783ab19175e02dc7521030856366c&)
+
+## Javascript
+
+- [Javascript completo](./langs/js.md)
+
+## Python
+[Python completo](./langs/python.md)

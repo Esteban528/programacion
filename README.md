@@ -6,55 +6,44 @@ _Aclaro que este recurso será actualizado periódicamente, por lo que te recomi
 
 # Sobre la guia
 
-Bueno, a través del tiempo he visto que a muchas personas les interesa el mundo tech y la programación. Sin embargo, en internet, así como se pueden encontrar recursos útiles, también se encuentra mucha basura. Así que, en este recurso quiero compartir **lo que no se ve en los bootcamps de internet**.
+Esta guia no es más que una guia de estudio con recursos relevantes para conseguir competencias y conocimientos de cálidad con el fin de lograr un pérfil de un desarrollador de software completo.
 
-La idea de esta guía es que tengas una orientación en tu carrera como programador autodidacta de manera gratuita y con recursos de cálidad con los que muchos expertos se han capacitado.
+Personalmente invito al lector a seguir paso por paso cada sección/entry de la guia para una mejor experiencia.
 
-Para entender y sacarle el máximo provecho a esta guía lo más recomendable es que leas todo paso a paso y sigas las lecturas y recursos como lo especifican las instrucciones, debes investigar mucho, lo que no entiendas investigarlo, usa internet y las herramientas de IA que puedes encontrar con solo buscar en tu buscador preferido. Recuerda que necesitas disciplina y paciencia para avanzar cada tema correctamente, ¡Mucha suerte!.
+Cada sección incluye un apartado de recursos que usted debe estudiar. 
 
-## ¿Por qué hice esta guía?
+> [!CAUTION]
+> Yo no promuevo la piratería pero casi cualquier libro se puede conseguir fácil en internet, bibliotecas públicas o archivos publicos (Anna's Archive, Internet Archive), aqui indexo los recursos de sitios oficiales (en su mayoría) para apoyar a sus autores, por lo que es su responsabilidad cómo conseguirlos.
 
-Como motivo principal decidí hacer esta guía para mis amigos, lo que me motivó a crear un recurso con información de calidad. Si estás leyendo esto, quiero que sepas las diferencias entre los mediocres y los que pueden lograr cosas grandes programando. En internet te van a vender miles de mentiras sobre que puedes ser profesional en 6 meses aprendiendo una tecnología, pero no es así, simplemente no es así. Necesitas bases para ser un desarrollador de calidad, y con buenas bases puedes aprender tecnologías siguiendo documentación técnica sin problemas, porque la idea es estar capacitado para cualquier cosa.
-
-# ¿Cómo empezar?
+# Inicio
 
 ## Motivación
 
-Antes de empezar un estudio es fundamental la motivación. Es importante que antes de empezar a estudiar determines lo siguiente:
+La motivación es muy importante a la hora de empezar a estudiar. Sin motivación ni metas no llegará a ningún lado, en el mundo tech en especial la programación es un universo de conocimientos y para abordarlo hay que plantearse metas y disfrutar del proceso. 
 
-- ¿En serio me gusta esto?
-- ¿Qué quisiera lograr con esto? (Sé realista, obviamente)
-- ¿Mi proyecto de vida se puede adaptar a esto, o puedo tomarlo como un hobby?
-
-Una vez entiendas tu propósito, empecemos.
+La mayoria de personas para las que esta guia va dirigida es muy posible que no estén muy familiarizados con la **lectura**. En mi recomendación personal si usted es una persona que no le entusiasma leer, le recomiendo empezar de una vez a leer poco a poco hasta que ya no sea abrumador, pues la **lectura** en especial en términos de ingenieria de software es fundamental ya que los mejores recursos, documentación y articulos técnicos los va a encontrar en texto.
 
 # Bases
 
-## Fundamentos
+Las bases son importantes y aunque se pueden saltar, no se recomienda hacerlo. Pues cada base es el cimiento para abordar temas más complejos y saltarse las bases solo creará conocimientos mediocres y pérdidas incalculables de tiempo y esfuerzo, por lo que dominar las bases tendrá innumerables ventajas.
 
-### ¿Por qué son importantes?
-
-Saber los fundamentos te dará importantes conocimientos que te ahorrarán tiempo y dolores de cabeza, lo que significa una importante ventaja al avanzar a tecnologías y retos que requieran de una persona mejor preparada.
-
-### Lógica de programación
+> [!IMPORTANT]
+> Comprender las ciencias de la computación es casi que obligatorio si se quiere tener un dominio amplio en el campo.## Lógica de programación
 
 La lógica de programación es una habilidad que todos los programadores debemos desarrollar; de esta depende la calidad de las soluciones que empleamos para resolver problemas a lo largo de nuestra carrera. Perfeccionar esta habilidad depende de estudio y experiencia, por lo que no nos apresuremos y veamos los fundamentos.
 
-#### Algoritmos
+### Algoritmos
 
-Un algoritmo no es más que la serie de pasos que debe ejecutar un proceso para llegar a una solución. El algoritmo no es código como tal; usualmente se hacen en diagramas de flujo o en pseudocódigo.
+Un algoritmo no es más que la serie de pasos que debe ejecutar un proceso para llegar a una solución. El algoritmo no es código como tal; usualmente se hacen en diagramas de flujo o en pseudocódigo, o simplemente texto. La forma en la que se escriban no importa, lo principal es entender como funcionan y cómo debemos hacerlo.
 
 Como ejemplo, piensa en una receta para un pastel. En la receta estará escrita la cantidad necesaria de ingredientes, tiempos, y todos los pasos para hacer un pastel. El **proceso** sería cuando cocinamos el pastel y el resultado del programa sería el pastel en sí.
 
 Entender cómo funciona un algoritmo es importante, por lo que aquí te comparto los siguientes recursos (algunos en inglés):
 
-###### Para empezar 
+- [Grokking Algoritms](https://www.manning.com/books/grokking-algorithms) (MUY RECOMENDADO)
 - [Introducción a los Algoritmos - Desarrollo para todos](https://www.youtube.com/playlist?list=PLYYyYpMvAtD1Gu8o1734Ld22LTDxlfKfO)
-
-###### Para profundizar en algoritmos:
-- [Khan Academy - Algoritmos](https://www.khanacademy.org/computing/computer-science/algorithms) (Recomendado)
+- [Algoritmos - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) (Recomendado)
 - [Algoritmos - UAA](https://editorial.uaa.mx/docs/algoritmos.pdf) (Es una buena introducción)
-- [FreeCodeCamp - Estructuras de datos y algoritmos](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
 
 #### Pseudocódigo
 
@@ -69,9 +58,9 @@ Para empezar, puedes hacerlo con estos pequeños cursos:
 - [Opcion 1 CodersFree](https://www.youtube.com/watch?v=M4ih2U9RoqM&list=PLZ2ovOgdI-kVDDwSTVMTdg8pGQd92Zbyq&index=1&ab_channel=CodersFree)
 - [Opcion 2 Danisable Programacion](https://www.youtube.com/playlist?list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798)
 
-Una vez tengamos claros los fundamentos debemos practicar y jugar con ejercicios para entender mejor. Puede sentirse libre de hacer todo tipo de ejercicios con este programa
+Una vez tengamos claros los fundamentos se debe practicar y jugar con ejercicios para entender mejor. Puede sentirse libre de hacer todo tipo de ejercicios con este programa
 
-##### Ejercicios pseint
+### Ejercicios pseint
 <details>
   <summary>EJERCICIOS EN PSEINT -  Click para expandir</summary>
   
@@ -141,75 +130,48 @@ Una vez tengamos claros los fundamentos debemos practicar y jugar con ejercicios
 
 </details>
 
-# Estructuras de datos (Fundamentos)
-
-Las estructuras de datos organizan y gestionan información eficientemente. Son clave en software porque impactan el rendimiento, optimizan algoritmos y facilitan la resolución de problemas. *Con saber la teoria es sucifiente, luego se profundizará en eso.*
-
-- [ESTRUCTURAS DE DATOS](https://es.wikipedia.org/wiki/Estructura_de_datos)
-- [INTRODUCCION A LAS ESTRUCTURAS DE DATOS](https://www.researchgate.net/publication/359743419_Una_pequena_introduccion_a_Estructura_de_Datos)
-- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) (Recomendado)
-
-- [INTRODUCCIÓN ESTRUCTURAS DE DATOS - Usalesiana](https://virtual.usalesiana.edu.bo/web/conte/archivos/280.pdf)
-
-
-# Código
-
-Al llegar hasta aquí es necesario que escojamos un lenguaje de programación para empezar, este lenguaje reflejará el área técnica a la que nos vamos a dedicar (Podemos cambiar despues) por lo que tambien es recomendable estudiar un poco sobre el software y que podemos hacer con el.
-
-Si no sabes estos conceptos te invito a leer y/o investigar un poco acerca de ellos:
-
-- [SOFTWARE](https://www.santanderopenacademy.com/es/blog/que-es-software-y-ejemplos.html)
-- [AREAS EN EL SOFTWARE](https://www.youtube.com/watch?v=LXJr0Ua8v4c&ab_channel=Absolute)
-- [LENGUAJE DE PROGRAMACION](./resources/LENGUAJE.md)
-- [PARADIGMA DE PROGRAMACIÓN](./resources/PARADIGMAS.md)
-
-Te proporcionaré algunos recursos clave para empezar en algunos lenguajes recomendados, te recomiendo empezar con algo sencillo como Javascript, Python, o C. (Importante leer)
-
-- [LENGUAJES DE PROGRAMACION (BEGINNER)](./resources/LENGUAJES_BEGGINER.md)
-- [PROGRAMACION IMPERATIVA (INTRODUCCION) - Universidad del Rosario de Argentina](https://www.fceia.unr.edu.ar/~alpi/apuntes/capitulo13.pdf)
-
-## Fundamentos matemáticos
+## Fudamentos lógicos y matemáticos
 
 Si la meta es llegar lejos con la programación y tener una comprensión superior, no debes olvidarte de las matemáticas pues estas te abren las puertas a una infinidad de soluciones por la que podrás destacar.
 
-[INTRODUCCIÓN A LAS MATEMÁTICAS DISCRETAS - UAM MX](https://galois.azc.uam.mx/mate/LIBROS/matematicasdiscretas1.pdf)
-[MATEMÁTICAS DISCRETAS CON SUS APLIACIONES](https://bibliotecavirtual8denovpinas.wordpress.com/wp-content/uploads/2020/08/matematicas-discretas-con-aplicaciones-epp-4ta-edicion-2.pdf)
+- [LÓGICA PROPOSICIONAL](https://www.matematicas.ciencias.uchile.cl/juaco/section-1.html)
+- [INTRODUCCIÓN A LAS MATEMÁTICAS DISCRETAS - UAM MX](https://galois.azc.uam.mx/mate/LIBROS/matematicasdiscretas1.pdf)
+- [MATEMÁTICAS DISCRETAS CON SUS APLIACIONES](https://bibliotecavirtual8denovpinas.wordpress.com/wp-content/uploads/2020/08/matematicas-discretas-con-aplicaciones-epp-4ta-edicion-2.pdf)
 
-[ANALISIS DE ALGORITMOS - UNICAUCA](http://artemisa.unicauca.edu.co/~nediaz/EDDI/cap01.htm)
-[ANALISIS DE COMPLEJIDAD DE ALGORITMOS](https://medium.com/@rodomg/an%C3%A1lisis-de-complejidad-parte-1-626ee07b2020)
+- [ANALISIS DE ALGORITMOS - UNICAUCA](http://artemisa.unicauca.edu.co/~nediaz/EDDI/cap01.htm)
+- [ANALISIS DE COMPLEJIDAD DE ALGORITMOS](https://medium.com/@rodomg/an%C3%A1lisis-de-complejidad-parte-1-626ee07b2020)
 
-## Próxima etapa
+## Informática
 
-Una vez se culminan los fundamentos ya estamos listos para adentrarnos en la práctica para obtener experiencia desarrollando soluciones a problemas y haciendo software.
+Comprender conceptos informaticos más allá de hardware y cómo una computadora funciona, es muy importante para hacer una gestión de recursos correcta y un correcto desempeño en ingenieria. 
 
-Segun lo que escogimos podemos echarle un ojo a estos recursos.
+- [Introducción a la informatica - Hardvard CS50](https://cs50.harvard.edu/x/) (Curso de computer science)
+- [The Hidden Language of Computer Hardware and Software — Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) (Libro recomendado)
+- [Building a modern computer from first principes](https://www.nand2tetris.org/) 
+- [Computer Science crash course (Este recurso se expande más allá de solo informática)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+## Fundamentos de estructuras de datos
+
+Las estructuras de datos organizan y gestionan información eficientemente. Son clave en software porque impactan el rendimiento, optimizan algoritmos y facilitan la resolución de problemas.
+En esta sección se invita a estudiar la teoría e intentar entender sus algoritmos y su estructura. No se preocupe si no lo entiende, usted deberá verlo a detalle después.
+
+- [Opción 1 | INTRODUCCIÓN ESTRUCTURAS DE DATOS - Usalesiana](https://virtual.usalesiana.edu.bo/web/conte/archivos/280.pdf)
+- [Opción 2 | INTRODUCCION ESTRUCTURAS DE DATOS](https://www.researchgate.net/publication/359743419_Una_pequena_introduccion_a_Estructura_de_Datos)
+- [Articulo | ESTRUCTURAS DE DATOS](https://es.wikipedia.org/wiki/Estructura_de_datos)
+
+
+**Para ver luego:**
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) (Recomendado)
+- [Estructuras de datos y algoritmos - FreeCodeCamp](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
+
+
+# Código
+El código es la forma en la que nos comunicamos con lo que vamos a crear, por lo que dominar un lenguaje de programación será lo que nos permitirá crear soluciones mediante software:
+
+- [PARADIGMAS DE PROGRAMACIÓN](./resources/PARADIGMAS.md)
+- [LENGUAJE DE PROGRAMACION](./resources/LENGUAJE.md)
+
+
+## Otros enfoques
 
 [DESARROLLO WEB](./resources/DEVWEB.md)
-
-_Por ahora solo agregaré esta rama ya que es muy extenso e iré haciendolo poco a poco, estan invitados a contribuir, será un gusto aceptar PRs :)_
-
-# Herramientas y otros conceptos
-
-Hacer software no es solo programar, también es necesario aprender diversos conceptos que nos harán sobresalir.
-
-**Sistema operativos**
-Muchos hacen preguntas sobre que sistema operativo usar o cuál es mejor, unos dirán que MacOS, otros que una distro de linux y otros que windows siempre será lo mejor por su compatibilidad.
-Bueno la respuesta es simple, prueba y quedate con el que más cómodo te parezca y mejor terminos de licencia tengas. Personalmente me siento más cómodo con Las distribuciones de linux en especial [NixOS](https://nixos.org/).
-
-**Editor de codigo**
-El editor de código dependerá de tus necesidades y a lo que te vas a dedicar, puedes usar un IDE, o [Visual Studio Code](https://code.visualstudio.com/), en teoría deberias usar lo que mejor se acople a ti, puedes probar los [IDEs de jetbrains](https://www.jetbrains.com/es-es/) o irte por algo más personalizable como [NeoVim](https://neovim.io/).
-
-## Herramientas
-
-**GIT**
-[Git](https://git-scm.com/) es un controlador de versiones de codigo abierto, desarrollado principalmente para el proyecto linux pero su rendimiento y características revolucionaron el mundo del software y hoy en día es una de las herramientas más interesantes e importantes que puedes conocer.
-
-[Aprende Git y Github desde cero](https://www.freecodecamp.org/espanol/news/aprende-git-y-github-curso-desde-cero/)
-
-_Pronto subiré más recursos y ampliaré las guías con más contenido_
-
-Todos los derechos reservados a los propietarios de los recursos en internet, he usado solo recursos públicos, gratis y que he revisado cuidadosamente para validar la cálidad de su contenido.
-
-# Sobre mi
-
-[Comunidad de discord para estudiantes de tech (RunDevs)](https://discord.gg/fdqYPA6Jvs)
