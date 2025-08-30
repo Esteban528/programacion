@@ -28,7 +28,9 @@ La mayoria de personas para las que esta guia va dirigida es muy posible que no 
 Las bases son importantes y aunque se pueden saltar, no se recomienda hacerlo. Pues cada base es el cimiento para abordar temas más complejos y saltarse las bases solo creará conocimientos mediocres y pérdidas incalculables de tiempo y esfuerzo, por lo que dominar las bases tendrá innumerables ventajas.
 
 > [!IMPORTANT]
-> Comprender las ciencias de la computación es casi que obligatorio si se quiere tener un dominio amplio en el campo.## Lógica de programación
+> Comprender las ciencias de la computación es casi que obligatorio si se quiere tener un dominio amplio en el campo.
+
+## Lógica de programación
 
 La lógica de programación es una habilidad que todos los programadores debemos desarrollar; de esta depende la calidad de las soluciones que empleamos para resolver problemas a lo largo de nuestra carrera. Perfeccionar esta habilidad depende de estudio y experiencia, por lo que no nos apresuremos y veamos los fundamentos.
 
