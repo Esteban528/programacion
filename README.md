@@ -47,7 +47,7 @@ Entender cómo funciona un algoritmo es importante, por lo que aquí te comparto
 - [Algoritmos - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) (Recomendado)
 - [Algoritmos - UAA](https://editorial.uaa.mx/docs/algoritmos.pdf) (Es una buena introducción)
 
-#### Pseudocódigo
+#### Pseudocódigo (ESTE RECURSO DEBES VERLO SOLO SI NO TIENES EXPERIENCIA CON EXPRESIONES LÓGICAS/SECUENCIALES O NO SABES NADA DE PROGRAMACION, CON VERLO EN MENOS DE UNA SEMANA BASTA)
 
 El pseudocódigo es aquel que se asemeja al lenguaje natural y puede ser en español. Es sumamente útil para familiarizarte con los conceptos clave de un lenguaje de programación y entender los conceptos básicos de la programación. Este proceso, si no tienes experiencia con programación, no recomiendo saltártelo, ya que te va a dar una base suficiente como para iniciar en un lenguaje de programación.
 
