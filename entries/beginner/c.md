@@ -11,4 +11,4 @@ C es un lenguaje realmente simple con el que se puede adentrar y conocer muy de 
 Lo siguiente a estudiar es la segunda parte del roadmap en el [Inicio](../README.md) sobre ciencias de computación, algoritmos, paradigmas y enfoques.
 
 ---
-[Inicio](../README.md) [C - Completo](../../resources/langs/c.md)
+[Inicio](../../README.md) | [C - Completo](../../resources/langs/c.md)
