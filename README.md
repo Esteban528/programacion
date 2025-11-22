@@ -16,8 +16,7 @@ Cada sección incluye un apartado de recursos que usted debe estudiar, para obte
 > Yo no promuevo la piratería pero casi cualquier libro se puede conseguir fácil en internet, bibliotecas públicas o archivos publicos (Anna's Archive, Internet Archive), aqui indexo los recursos de sitios oficiales (en su mayoría) para apoyar a sus autores, por lo que es su responsabilidad cómo conseguirlos.
 
 
-Libros
-- [Grokking Algoritms](https://www.manning.com/books/grokking-algorithms) (MUY RECOMENDADO)
+
 
 # Inicio
 Cada entrada tiene unos recursos organizados por temas, debe estudiar cada tema a menos que este incluya algún mensaje como el de "*No es necesario*"
@@ -32,8 +31,7 @@ La programación es un campo extenso y muy competitivo, asi que entre más tiemp
 
 Las bases son los cimientos de los conocimientos, sin buenas bases no será capaz de solucionar problemas. Aprender un lenguaje de programación es realmente fácil, basta con entender el paradigma y memorizar su sintaxis, pero esto **no** es suficiente para resolver problemas, el cual es el verdadero propósito por el cual lo van a contratar como desarrollador de software.
 
-
-## Roadmap
+## Roadmap introducción
 
 - [Pensamiento algoritmico](./entries/intro_algoritmos.md) 
 - [Lógica de programación](./entries/intro_logica.md)
@@ -60,11 +58,15 @@ En esta sección se invita a estudiar la teoría e intentar entender sus algorit
 - [Estructuras de datos y algoritmos - FreeCodeCamp](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
 
 
+
 # Código
 El código es la forma en la que nos comunicamos con lo que vamos a crear, por lo que dominar un lenguaje de programación será lo que nos permitirá crear soluciones mediante software y nos va a permitir definir un enfoque en el cual especializarnos:
 
 - [PARADIGMAS DE PROGRAMACIÓN](./resources/PARADIGMAS.md)
 - [LENGUAJE DE PROGRAMACION](./resources/LENGUAJE.md)
+
+# Algoritmos
+- [Grokking Algoritms](https://www.manning.com/books/grokking-algorithms) (MUY RECOMENDADO)
 
 # Ciencias importantes
 Esta sección se dedica a temas que le pueden ayudar y que significan una ventaja bastante grande en sus conocimientos, sería ideal que pudiera adentrar en ellos.
