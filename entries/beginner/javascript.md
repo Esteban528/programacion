@@ -19,5 +19,5 @@ Cursos:
 Lo siguiente a estudiar es la segunda parte del roadmap en el [Inicio](../README.md) sobre ciencias de computación, algoritmos, paradigmas y enfoques.
 
 ---
-[Inicio](../README.md)  [JavaScript - Completo](../../resources/langs/js.md)
+[Inicio](../../README.md)  [JavaScript - Completo](../../resources/langs/js.md)
 
