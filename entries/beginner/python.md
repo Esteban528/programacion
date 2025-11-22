@@ -11,4 +11,4 @@ Python es un buen lenguaje para empezar a poner en práctica los primeros concep
 Lo siguiente a estudiar es la segunda parte del roadmap en el [Inicio](../README.md) sobre ciencias de computación, algoritmos, paradigmas y enfoques.
 
 ---
-[Inicio](../README.md) [Python - Completo](../../resources/langs/python.md)
+[Inicio](../../README.md) | [Python - Completo](../../resources/langs/python.md)
