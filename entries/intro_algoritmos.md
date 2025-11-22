@@ -20,4 +20,4 @@ Entender cómo funciona un algoritmo es importante, por lo que aquí te comparto
 - [Pensamiento algoritmico](http://ilitia.cua.uam.mx:8080/jspui/bitstream/123456789/1206/3/PensamientoAlgori%cc%81tmico_11072024_FINAL%20%281%29.pdf)
 
 ---
-[Inicio](../README.md) [Siguiente](./intro_primerlang.md)
+[Inicio](../README.md) [Siguiente](./intro_logica.md)
