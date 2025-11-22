@@ -219,4 +219,4 @@ hermano(X, Y) :- padre(Z, X), padre(Z, Y), X \= Y.
 
 
 ---
-[Inicio](../README.md) | [Inicio](./LENGUAJE.md)
+[Inicio](../README.md) | [Lenguajes de programacion](./LENGUAJE.md)
