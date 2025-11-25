@@ -77,7 +77,7 @@ Si la meta es llegar lejos con la programación y tener una comprensión superio
 
 - [LÓGICA PROPOSICIONAL](https://www.matematicas.ciencias.uchile.cl/juaco/section-1.html)
 - [INTRODUCCIÓN A LAS MATEMÁTICAS DISCRETAS - UAM MX](https://galois.azc.uam.mx/mate/LIBROS/matematicasdiscretas1.pdf)
-- [MATEMÁTICAS DISCRETAS CON SUS APLIACIONES](https://bibliotecavirtual8denovpinas.wordpress.com/wp-content/uploads/2020/08/matematicas-discretas-con-aplicaciones-epp-4ta-edicion-2.pdf)
+- [MATEMÁTICAS DISCRETAS CON SUS APLICACIONES](https://bibliotecavirtual8denovpinas.wordpress.com/wp-content/uploads/2020/08/matematicas-discretas-con-aplicaciones-epp-4ta-edicion-2.pdf)
 
 - [ANALISIS DE ALGORITMOS - UNICAUCA](http://artemisa.unicauca.edu.co/~nediaz/EDDI/cap01.htm)
 - [ANALISIS DE COMPLEJIDAD DE ALGORITMOS](https://medium.com/@rodomg/an%C3%A1lisis-de-complejidad-parte-1-626ee07b2020)
