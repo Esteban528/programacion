@@ -42,6 +42,7 @@ Las bases son los cimientos de los conocimientos, sin buenas bases no será capa
 
 - [Curso de ciencias de la computación - Khan Academy](https://www.khanacademy.org/computing/computer-science)
 - [Curso de ciencias de la computación - Hardvard CS50](https://cs50.harvard.edu/x/)
+- [Digital system design principles - Computation structures](https://computationstructures.org)
 
 ## Fundamentos de estructuras de datos
 
